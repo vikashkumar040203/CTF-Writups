@@ -1,0 +1,29 @@
+ctf learn
+** crypto graphy**
+
+Q.Suspecious message
+30 points Easy
+
+Hello! My friend Fari send me this suspecious message: 'MQDzqdor{Ix4Oa41W_1F_B00h_m1YlqPpPP}' and photo.png. Help me decrypt this!
+
+ANS:CTFLEARN{PL4YF41R_1S_C00L_C1PHERRRR}
+
+step:
+
+
+https://www.programmersought.com/article/90286538437/
+
+
+
+Q2.
+
+ans:
+DTMF encryption, use http://dialabc.com/sound/detect/index.html
+67 84 70 108 101 97 110 123 67 82 89 80 84 79 71 82 65 80 72 89 125
+decrypt to acsii
+ans:CTFlean{CRYPTOGRAPHY}
+
+
+
+
+
